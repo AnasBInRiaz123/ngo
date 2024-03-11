@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <MDBFooter id="footer" className="bg-light text-center text-white">
       <MDBContainer className="p-4 pb-0 ">
-        <section style={{ paddingBottom:"1.75vmax"}} className="bg-light">
+        <section className="bg-light">
           <MDBBtn
             floating
             className="m-1"
