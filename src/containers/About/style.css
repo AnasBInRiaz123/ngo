@@ -1,0 +1,19 @@
+.about{
+  padding: 1vmax 0 3vmax 0vmax;
+  text-align: justify;
+
+}
+
+
+
+@media (max-width: 991px) {
+  .rows{
+    display: block;
+    justify-content: center;
+    padding: .5vmax 1vmax .5vmax 1vmax;
+    text-align: justify;
+    
+  }
+  .img{
+    padding-top:5vmax}
+  }
